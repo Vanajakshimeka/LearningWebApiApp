@@ -1,5 +1,7 @@
 # LearningWebApiApp
 
+**Reuired Visual Studio to run the application (I used Visual Studio 2019)** 
+
 Installation from Nugget package
 
 1. Microsoft.AspNet.WebApi.Core 5.2.7
