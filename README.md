@@ -1,6 +1,6 @@
 # LearningWebApiApp
 
-**Reuired Visual Studio to run the application (I used Visual Studio 2019)** 
+**Required Visual Studio to run the application (I used Visual Studio 2019)** 
 
 Installation from Nugget package
 
