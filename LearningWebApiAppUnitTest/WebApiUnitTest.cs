@@ -45,14 +45,5 @@ namespace LearningWebApiAppUnitTest
         {
             Assert.AreNotEqual("Test", response);
         }
-
-        /// <summary>
-        /// Test case for string are not equal
-        /// </summary>
-        [TestMethod]
-        public void TestNonMatchingStringNegative()
-        {
-            Assert.AreEqual("Test", response);
-        }
     }
 }
